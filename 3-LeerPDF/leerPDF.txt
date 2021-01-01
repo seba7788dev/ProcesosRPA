@@ -1,0 +1,18 @@
+Reglas para una Automatización
+• Tareas repetitivas.
+• Proceso estandarizado.
+• Entradas digitales.
+• Proceso fijo
+• Proceso con reglas de
+negocio definidas.
+• Procesos que consuman
+mucho tiempo. *
+Para automatizar un conjunto de tareas, las cuales
+llamamos procesos, debemos considerar lo siguiente:
+Tareas repetitivas.
+El proceso está estandarizado y utiliza entradas
+El proceso es fijo, no tiene cambios significativos.
+El proceso tiene reglas de negocio definidas.
+Procesos que consuman mucho tiempo.
+No es recomendable crear una automatización de un
+proceso que no cumpla estas consideraciones. 4
