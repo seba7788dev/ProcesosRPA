@@ -52,41 +52,6 @@
     },
     {
       "Package": {
-        "Id": "UiPath.OCR.Activities",
-        "Version": "2.4.1"
-      },
-      "Assemblies": [
-        "C:\\Users\\Sebastian\\.nuget\\packages\\aforge/2.2.5\\lib/AForge.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\aforge.imaging/2.2.5\\lib/AForge.Imaging.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\aforge.math/2.2.5\\lib/AForge.Math.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\nlog/4.5.11\\lib/net45/NLog.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\system.collections.immutable/1.5.0\\lib/netstandard2.0/System.Collections.Immutable.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.1\\lib/net461/UiPath.OCR.Activities.Design.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.1\\lib/net461/UiPath.OCR.Activities.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.1\\lib/net461/UiPath.OCR.Core.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.contracts/2.7.1\\lib/net461/UiPath.OCR.Contracts.dll"
-      ],
-      "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.1"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.PDF.Activities",
-        "Version": "3.3.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\Sebastian\\.nuget\\packages\\bitmiracle.docotic.pdf/5.10.9957\\lib/net40/BitMiracle.Docotic.Pdf.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.contracts/2.7.1\\lib/net461/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.pdf.activities/3.3.0\\lib/net461/UiPath.PDF.Activities.Design.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.pdf.activities/3.3.0\\lib/net461/UiPath.PDF.Activities.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.pdf.activities/3.3.0\\lib/net461/UiPath.PDF.dll"
-      ],
-      "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.pdf.activities\\3.3.0"
-    },
-    {
-      "Package": {
         "Id": "UiPath.System.Activities",
         "Version": "20.10.1"
       },
@@ -165,9 +130,9 @@
         "C:\\Users\\Sebastian\\.nuget\\packages\\system.threading.tasks.dataflow/4.10.0\\lib/netstandard2.0/System.Threading.Tasks.Dataflow.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath/20.10.7585.27318\\lib/UiPath.Interop.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.1\\lib/net461/UiPath.OCR.Activities.Design.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.1\\lib/net461/UiPath.OCR.Activities.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.1\\lib/net461/UiPath.OCR.Core.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.0\\lib/net461/UiPath.OCR.Activities.Design.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.0\\lib/net461/UiPath.OCR.Activities.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.0\\lib/net461/UiPath.OCR.Core.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.contracts/2.7.1\\lib/net461/UiPath.OCR.Contracts.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.platform/20.10.4\\lib/net461/UiPath.Platform.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.telemetry.client/1.2.20\\lib/net461/TelemetryClient.dll",
@@ -201,6 +166,21 @@
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.6"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.PDF.Activities",
+        "Version": "3.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Sebastian\\.nuget\\packages\\bitmiracle.docotic.pdf/5.10.9957\\lib/net40/BitMiracle.Docotic.Pdf.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.contracts/2.7.1\\lib/net461/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.pdf.activities/3.3.0\\lib/net461/UiPath.PDF.Activities.Design.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.pdf.activities/3.3.0\\lib/net461/UiPath.PDF.Activities.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.pdf.activities/3.3.0\\lib/net461/UiPath.PDF.dll"
+      ],
+      "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.pdf.activities\\3.3.0"
     }
   ],
   "Conflicts": [],
@@ -909,7 +889,7 @@
     },
     "UiPath.OCR.Activities": {
       "Id": "UiPath.OCR.Activities",
-      "Version": "2.4.1",
+      "Version": "2.4.0",
       "Dependencies": [
         {
           "Item1": "UiPath.OCR.Contracts",
@@ -1751,14 +1731,14 @@
     {
       "Package": {
         "Id": "UiPath.OCR.Activities",
-        "Version": "2.4.1"
+        "Version": "2.4.0"
       },
       "Assemblies": [
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.1\\lib\\net461\\UiPath.OCR.Activities.Design.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.1\\lib\\net461\\UiPath.OCR.Activities.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.1\\lib\\net461\\UiPath.OCR.Core.dll"
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.0\\lib\\net461\\UiPath.OCR.Activities.Design.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.0\\lib\\net461\\UiPath.OCR.Activities.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.0\\lib\\net461\\UiPath.OCR.Core.dll"
       ],
-      "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.1"
+      "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.0"
     },
     {
       "Package": {

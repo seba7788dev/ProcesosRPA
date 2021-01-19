@@ -10,10 +10,10 @@
         "C:\\Users\\Sebastian\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\sharpziplib/1.2.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.excel.activities/2.9.3\\lib/net461/UiPath.Excel.Activities.Design.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.excel.activities/2.9.3\\lib/net461/UiPath.Excel.Activities.dll",
@@ -28,10 +28,10 @@
       },
       "Assemblies": [
         "C:\\Users\\Sebastian\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.PlatformServices.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.PlatformServices.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis.calendar.v3/1.43.0.1872\\lib/net45/Google.Apis.Calendar.v3.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis.core/1.43.0\\lib/net45/Google.Apis.Core.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis.gmail.v1/1.43.0.1859\\lib/net45/Google.Apis.Gmail.v1.dll",
@@ -49,41 +49,6 @@
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.mail.activities/1.9.3\\lib/net461/UiPath.Mail.dll"
       ],
       "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.mail.activities\\1.9.3"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.OCR.Activities",
-        "Version": "2.4.1"
-      },
-      "Assemblies": [
-        "C:\\Users\\Sebastian\\.nuget\\packages\\aforge/2.2.5\\lib/AForge.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\aforge.imaging/2.2.5\\lib/AForge.Imaging.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\aforge.math/2.2.5\\lib/AForge.Math.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\nlog/4.5.11\\lib/net45/NLog.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\system.collections.immutable/1.5.0\\lib/netstandard2.0/System.Collections.Immutable.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.1\\lib/net461/UiPath.OCR.Activities.Design.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.1\\lib/net461/UiPath.OCR.Activities.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.1\\lib/net461/UiPath.OCR.Core.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.contracts/2.7.1\\lib/net461/UiPath.OCR.Contracts.dll"
-      ],
-      "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.1"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.PDF.Activities",
-        "Version": "3.3.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\Sebastian\\.nuget\\packages\\bitmiracle.docotic.pdf/5.10.9957\\lib/net40/BitMiracle.Docotic.Pdf.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.contracts/2.7.1\\lib/net461/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.pdf.activities/3.3.0\\lib/net461/UiPath.PDF.Activities.Design.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.pdf.activities/3.3.0\\lib/net461/UiPath.PDF.Activities.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.pdf.activities/3.3.0\\lib/net461/UiPath.PDF.dll"
-      ],
-      "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.pdf.activities\\3.3.0"
     },
     {
       "Package": {
@@ -152,10 +117,10 @@
         "C:\\Users\\Sebastian\\.nuget\\packages\\aforge.imaging/2.2.5\\lib/AForge.Imaging.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\aforge.math/2.2.5\\lib/AForge.Math.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\extended.wpf.toolkit/3.8.1\\lib/net40/Xceed.Wpf.AvalonDock.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\extended.wpf.toolkit/3.8.1\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\extended.wpf.toolkit/3.8.1\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\extended.wpf.toolkit/3.8.1\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\extended.wpf.toolkit/3.8.1\\lib/net40/Xceed.Wpf.AvalonDock.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\extended.wpf.toolkit/3.8.1\\lib/net40/Xceed.Wpf.Toolkit.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
@@ -165,9 +130,9 @@
         "C:\\Users\\Sebastian\\.nuget\\packages\\system.threading.tasks.dataflow/4.10.0\\lib/netstandard2.0/System.Threading.Tasks.Dataflow.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath/20.10.7585.27318\\lib/UiPath.Interop.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.1\\lib/net461/UiPath.OCR.Activities.Design.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.1\\lib/net461/UiPath.OCR.Activities.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.1\\lib/net461/UiPath.OCR.Core.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.0\\lib/net461/UiPath.OCR.Activities.Design.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.0\\lib/net461/UiPath.OCR.Activities.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities/2.4.0\\lib/net461/UiPath.OCR.Core.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.contracts/2.7.1\\lib/net461/UiPath.OCR.Contracts.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.platform/20.10.4\\lib/net461/UiPath.Platform.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.telemetry.client/1.2.20\\lib/net461/TelemetryClient.dll",
@@ -186,19 +151,19 @@
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities/20.10.6\\lib/net461/UiPath.CV.Activities.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities/20.10.6\\lib/net461/UiPath.CV.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities/20.10.6\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities/20.10.6\\lib/net461/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities/20.10.6\\lib/net461/UiPath.UIAutomationCore.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities/20.10.6\\lib/net461/UiPath.UIAutomationNext.Activities.Design.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities/20.10.6\\lib/net461/UiPath.UIAutomationNext.Activities.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities/20.10.6\\lib/net461/UiPath.UIAutomationNext.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities/20.10.6\\lib/net461/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities/20.10.6\\lib/net461/UiPath.Wizards.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.Core.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.GoogleCloud.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.Microsoft.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.MicrosoftCloud.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.Tesseract.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.dll"
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.Tesseract.dll"
       ],
       "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.6"
     }
@@ -237,11 +202,6 @@
     "AvalonEdit": {
       "Id": "AvalonEdit",
       "Version": "5.0.3",
-      "Dependencies": []
-    },
-    "BitMiracle.Docotic.Pdf": {
-      "Id": "BitMiracle.Docotic.Pdf",
-      "Version": "5.10.9957",
       "Dependencies": []
     },
     "BouncyCastle": {
@@ -909,7 +869,7 @@
     },
     "UiPath.OCR.Activities": {
       "Id": "UiPath.OCR.Activities",
-      "Version": "2.4.1",
+      "Version": "2.4.0",
       "Dependencies": [
         {
           "Item1": "UiPath.OCR.Contracts",
@@ -941,24 +901,6 @@
       "Id": "UiPath.OCR.Contracts",
       "Version": "2.7.1",
       "Dependencies": []
-    },
-    "UiPath.PDF.Activities": {
-      "Id": "UiPath.PDF.Activities",
-      "Version": "3.3.0",
-      "Dependencies": [
-        {
-          "Item1": "UiPath.OCR.Contracts",
-          "Item2": "[2.7.1, )"
-        },
-        {
-          "Item1": "System.ValueTuple",
-          "Item2": "[4.5.0, )"
-        },
-        {
-          "Item1": "BitMiracle.Docotic.Pdf",
-          "Item2": "[5.10.9957, )"
-        }
-      ]
     },
     "UiPath.Platform": {
       "Id": "UiPath.Platform",
@@ -1154,16 +1096,6 @@
     },
     {
       "Package": {
-        "Id": "BitMiracle.Docotic.Pdf",
-        "Version": "5.10.9957"
-      },
-      "Assemblies": [
-        "C:\\Users\\Sebastian\\.nuget\\packages\\bitmiracle.docotic.pdf\\5.10.9957\\lib\\net40\\BitMiracle.Docotic.Pdf.dll"
-      ],
-      "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\bitmiracle.docotic.pdf\\5.10.9957"
-    },
-    {
-      "Package": {
         "Id": "BouncyCastle",
         "Version": "1.8.5"
       },
@@ -1208,10 +1140,10 @@
         "Version": "3.8.1"
       },
       "Assemblies": [
+        "C:\\Users\\Sebastian\\.nuget\\packages\\extended.wpf.toolkit\\3.8.1\\lib\\net40\\Xceed.Wpf.AvalonDock.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\extended.wpf.toolkit\\3.8.1\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Aero.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\extended.wpf.toolkit\\3.8.1\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Metro.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\extended.wpf.toolkit\\3.8.1\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\extended.wpf.toolkit\\3.8.1\\lib\\net40\\Xceed.Wpf.AvalonDock.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\extended.wpf.toolkit\\3.8.1\\lib\\net40\\Xceed.Wpf.Toolkit.dll"
       ],
       "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\extended.wpf.toolkit\\3.8.1"
@@ -1222,8 +1154,8 @@
         "Version": "1.43.0"
       },
       "Assemblies": [
-        "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.PlatformServices.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.dll"
+        "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.PlatformServices.dll"
       ],
       "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis\\1.43.0"
     },
@@ -1233,8 +1165,8 @@
         "Version": "1.43.0"
       },
       "Assemblies": [
-        "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.PlatformServices.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.dll"
+        "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.PlatformServices.dll"
       ],
       "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\google.apis.auth\\1.43.0"
     },
@@ -1555,10 +1487,10 @@
         "Version": "2.4.1"
       },
       "Assemblies": [
+        "C:\\Users\\Sebastian\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OOXML.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXml4Net.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll"
+        "C:\\Users\\Sebastian\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll"
       ],
       "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\npoi\\2.4.1"
     },
@@ -1751,14 +1683,14 @@
     {
       "Package": {
         "Id": "UiPath.OCR.Activities",
-        "Version": "2.4.1"
+        "Version": "2.4.0"
       },
       "Assemblies": [
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.1\\lib\\net461\\UiPath.OCR.Activities.Design.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.1\\lib\\net461\\UiPath.OCR.Activities.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.1\\lib\\net461\\UiPath.OCR.Core.dll"
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.0\\lib\\net461\\UiPath.OCR.Activities.Design.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.0\\lib\\net461\\UiPath.OCR.Activities.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.0\\lib\\net461\\UiPath.OCR.Core.dll"
       ],
-      "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.1"
+      "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.activities\\2.4.0"
     },
     {
       "Package": {
@@ -1769,18 +1701,6 @@
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.contracts\\2.7.1\\lib\\net461\\UiPath.OCR.Contracts.dll"
       ],
       "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.ocr.contracts\\2.7.1"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.PDF.Activities",
-        "Version": "3.3.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.pdf.activities\\3.3.0\\lib\\net461\\UiPath.PDF.Activities.Design.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.pdf.activities\\3.3.0\\lib\\net461\\UiPath.PDF.Activities.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.pdf.activities\\3.3.0\\lib\\net461\\UiPath.PDF.dll"
-      ],
-      "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.pdf.activities\\3.3.0"
     },
     {
       "Package": {
@@ -1845,11 +1765,11 @@
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.6\\lib\\net461\\UiPath.CV.Activities.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.6\\lib\\net461\\UiPath.CV.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.6\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.6\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.6\\lib\\net461\\UiPath.UIAutomationCore.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.6\\lib\\net461\\UiPath.UIAutomationNext.Activities.Design.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.6\\lib\\net461\\UiPath.UIAutomationNext.Activities.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.6\\lib\\net461\\UiPath.UIAutomationNext.dll",
-        "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.6\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.6\\lib\\net461\\UiPath.Wizards.dll"
       ],
       "Path": "C:\\Users\\Sebastian\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.6"
